@@ -1,0 +1,24 @@
+{
+  "updated": "17 Sep 2026",
+  "actions": [
+    {"id":"commercial-community-review","title":"Prepare for and present the Commercial & Community Business Review","category":"Arya Connect","status":"open","priority":"tomorrow","context":"Presenting tomorrow"},
+    {"id":"csg-nsw","title":"Email CSG New South Wales","category":"Arya Connect","status":"open","priority":"tomorrow","context":"Morning priority"},
+    {"id":"djalu-skill","title":"Create a skill from the Djalu prioritisation framework for the next module","category":"Arya Connect","status":"open"},
+    {"id":"cloud-access","title":"Set up cloud access for the whole team","category":"Arya Connect","status":"open"},
+    {"id":"baby-bunting","title":"Progress Baby Bunting","category":"Arya Connect","status":"open"},
+    {"id":"operating-plan-readiness","title":"Update the operating plan page with the Readiness Review","category":"Arya Connect","status":"open"},
+    {"id":"jason-sow","title":"Review Jason’s statement-of-work notes from SPG","category":"Arya Connect","status":"open"},
+    {"id":"sjm-contract","title":"Check the SJM contract","category":"Arya Connect","status":"open"},
+    {"id":"work-cloud-aria","title":"Develop the Work Cloud on Aria proposition for frontline staff","category":"Arya Connect","status":"open"},
+    {"id":"claudia-timeline","title":"Document the timetable for Claudia’s timeline","category":"Arya Connect","status":"open"},
+    {"id":"public-dashboard","title":"Reach out to Draw about the public dashboard update","category":"Arya Connect","status":"open"},
+    {"id":"welcome-email","title":"Update the welcome email to reflect the new positioning","category":"Arya Connect","status":"open"}
+  ],
+  "decisions": ["Tomorrow morning is focused on the Commercial & Community Business Review and emailing CSG New South Wales ahead of the other open actions."],
+  "ideas": ["Think about posting/pitching more on LinkedIn."],
+  "changes": [
+    {"date":"17 Sep 2026","text":"Commercial & Community Business Review moved to tomorrow’s priorities."},
+    {"date":"17 Sep 2026","text":"CSG New South Wales email moved to tomorrow’s priorities."},
+    {"date":"17 Sep 2026","text":"Initial action dashboard created from the authoritative chat list."}
+  ]
+}
